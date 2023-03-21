@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, PHP, JavaScript, Oracle**
 
-- 📫 How to reach me **sukien197@gmail.com**
+- 📫 Email: **sukien197@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/support-kms-prod/mQmcrC93Ryi2U4x5UdZNeyHQMybbyk71yCVm">
