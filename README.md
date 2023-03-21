@@ -4,10 +4,8 @@
 - 🔭 I'm a student at **HUFI ( Ho Chi Minh City University of Food Industry)**
 
 - 🌱 I’m currently learning **Java, PHP, JavaScript, Oracle**
-
-
-<h3 align="left">Connect with me:</h3>
 - 📫 Email: **sukien197@gmail.com**
+
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/support-kms-prod/mQmcrC93Ryi2U4x5UdZNeyHQMybbyk71yCVm">
 <p align="left">
 </p>
