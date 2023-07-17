@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bien Thanh Nhut</h1>
+<h1 align="center">Hi 👋, I'm Nhut Thanh Bien</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bthanhnhut&label=Profile%20views&color=0e75b6&style=flat" alt="bthanhnhut" /> </p>
 
 - 🔭 I'm a student at **HUFI ( Ho Chi Minh City University of Food Industry)**
