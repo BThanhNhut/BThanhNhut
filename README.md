@@ -3,7 +3,7 @@
 
 - 🔭 I'm a student at **HUIT ( HO CHI MINH CITY UNIVERSITY OF INDUSTRY AND TRADE)**
 
-- 🌱 I’m currently learning **Java, JavaScript, html, css, Oracle**
+- 🌱 I’m currently learning **Java, C#, JavaScript, html, css**
 - 📫 Email: **sukien197@gmail.com**
 
 <!-- <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/support-kms-prod/mQmcrC93Ryi2U4x5UdZNeyHQMybbyk71yCVm"> -->
